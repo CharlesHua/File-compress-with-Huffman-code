@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1492876612 source:c:\users\charles hua\desktop\file compress\huffman.cpp
+	<iostream>
+
+1492916765 c:\users\charles hua\desktop\file compress\huffman_tree.h
+	<iostream>
+	<string.h>
+
+1492918776 source:c:\users\charles hua\desktop\file compress\main.cpp
+	<iostream>
+	<fstream>
+	"huffman_tree.h"
+
+1492876612 source:c:\users\charles hua\desktop\file compress 1.1\huffman.cpp
+	<iostream>
+
+1492947313 source:c:\users\charles hua\desktop\file compress 1.1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"huffman_tree.h"
+
+1492916765 c:\users\charles hua\desktop\file compress 1.1\huffman_tree.h
+	<iostream>
+	<string.h>
+
+1492876612 source:c:\users\charles hua\desktop\file compress 1.2\huffman.cpp
+	<iostream>
+
+1492965877 source:c:\users\charles hua\desktop\file compress 1.2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"huffman_tree.h"
+
+1492965065 c:\users\charles hua\desktop\file compress 1.2\huffman_tree.h
+	<iostream>
+	<string.h>
+
+1492966116 source:c:\users\charles hua\desktop\file compress 1.2\huffman_tree.cpp
+	<iostream>
+	"huffman_tree.h"
+
+1492997859 source:c:\users\charles hua\desktop\file compress 1.3\huffman_tree.cpp
+	<iostream>
+	"huffman_tree.h"
+
+1492997546 c:\users\charles hua\desktop\file compress 1.3\huffman_tree.h
+	<iostream>
+	<string.h>
+
+1492997123 source:c:\users\charles hua\desktop\file compress 1.3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"huffman_tree.h"
+	"huffman_compress.h"
+
+1492998089 source:c:\users\charles hua\desktop\file compress 1.3\huffman_compress.cpp
+	<iostream>
+	"huffman_compress.h"
+
+1493011924 c:\users\charles hua\desktop\file compress 1.3\huffman_compress.h
+	<fstream>
+	"huffman_tree.h"
+
